@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>S8toto : Slot Deposit Pulsa Tanpa Potongan Dan Slot Deposit 5000</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="S8toto hadir dengan berbagai kemudahan bagi para pemain slot online, salah satunya adalah pilihan Slot Deposit Pulsa Tanpa Potongan. Dengan fitur ini, pemain dapat melakukan deposit menggunakan pulsa tanpa harus khawatir akan adanya potongan. Ini adalah solusi yang praktis bagi mereka yang ingin bermain dengan mudah dan cepat" />
+        <meta name="keywords" content="S8toto, Slot Deposit Pulsa Tanpa Potongan, Slot Deposit 5000, Slot Deposit Pulsa, Slot Paling Gacor 2025, Situs Slot Terbaik 2025, Link Slot Gates OF Olympus, Situs Slot Daftar Dapat Bonus, Link Slot Bonus 100, Link Slot Baru Daftar Dapat Bonus" />
+        <meta name="google-site-verification" content="8tFqQOaMmffiuV6DntlR5cMN8LHt6tKo3rvzINRsZA4" />
+        <meta name="application-name" content="s8toto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="s8toto" />
+        <meta name="publisher" content="s8toto" />
+        <meta name="copyright" content="s8toto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="S8toto : Slot Deposit Pulsa Tanpa Potongan Dan Slot Deposit 5000" />
         <meta property="og:description" content="S8toto : Slot Deposit Pulsa Tanpa Potongan Dan Slot Deposit 5000, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="s8toto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="s8toto" />
         <meta name="twitter:title" content="S8toto : Slot Deposit Pulsa Tanpa Potongan Dan Slot Deposit 5000" />
         <meta name="twitter:description" content="S8toto : Slot Deposit Pulsa Tanpa Potongan Dan Slot Deposit 5000, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
