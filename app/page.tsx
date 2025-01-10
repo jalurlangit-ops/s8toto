@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>s8toto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              s8toto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, s8toto menggabungkan rtp yang sangat akurat hingga 99%.
+              S8toto hadir sebagai pilihan terbaik bagi para penggemar slot online yang ingin menikmati pengalaman bermain tanpa ribet. Dengan fitur unggulan slot deposit pulsa tanpa potongan, Anda tidak perlu khawatir dengan biaya tambahan yang membebani. Cukup dengan pulsa, Anda bisa langsung menikmati beragam pilihan permainan slot yang seru dan menguntungkan. Proses deposit yang cepat dan aman menjadikan S8toto solusi ideal bagi pemain yang mengutamakan kenyamanan dan efisiensi
             </p>
             <p>
-              s8toto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Tidak perlu modal besar untuk mencoba keberuntungan Anda! Dengan hanya slot deposit 5000, Anda sudah bisa bermain dan meraih kesempatan menang jackpot besar. S8toto memberikan kesempatan kepada semua pemain, baik pemula maupun profesional, untuk menikmati sensasi bermain slot dengan modal ringan. Pilihan permainan yang lengkap, grafis memukau, dan bonus melimpah menjadikan pengalaman bermain Anda semakin memuaskan. Segera bergabung dengan S8toto dan rasakan sendiri keuntungannya
             </p>
             
             <p>
